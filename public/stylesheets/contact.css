@@ -1,0 +1,30 @@
+.footer{
+    position: relative;
+    margin-top: 45px;
+    height: 100px;
+    clear:both;
+    padding-top:10px;
+    color: white;
+    background-color: black;
+}
+
+#logofooter{
+    color:white
+}
+
+.header{
+    background-color:white; 
+    color:black;
+    width: 100%;
+    z-index: 1;
+}
+
+#navbarSupportedContent{
+    color: #ffffff ;
+    background-color:black;
+    width: 115px;
+}
+
+#contact{
+    margin-top: -4%;  
+}
